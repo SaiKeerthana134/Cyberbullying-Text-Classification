@@ -3,10 +3,6 @@
 ## Overview
 To address the increasing surge in cyberbullying space, our project leverages advanced deep learning models to accurately detect and categorize online hate speech, aiming to provide a
 safer environment for everyone to express their thoughts.
-## Dataset
-https://huggingface.co/datasets/Mitali05/sentiment-analysis-tweets-llama2-finetune 
-## Github Link
-https://github.com/SaiKeerthana134/DATA255_TEAM6
 ## Requirements
 
 python version : `python-3.10.6`
@@ -37,21 +33,7 @@ Package requirements :`pip install -r requirements.txt`
 **BiLSTMClassifier.py**: a bidirectional LSTM model for improved context understanding in sequences.
 **Bert.py**:Wraps the BERT model for fine-tuning on text classification tasks with transfer learning.
 
-## Contributions
 
-**Business Understanding, Data Collection**- Dharani, Gyana, Keerthana
-
-**Data Preprocessing** - Dharani, Gyana, Keerthana
-
-**Data Transformation** - Dharani, Gyana, Keerthana
-
-**Modeling** - Dharani, Gyana, Keerthana
-
-**Evaluation** - Dharani, Gyana, Keerthana
-
-**programming, IDE, Github** - Dharani, Gyana, Keerthana
-
-**PPT and Report** - Dharani, Gyana, Keerthana
 
 
 
